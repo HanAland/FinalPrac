@@ -8,6 +8,7 @@ package student;
 /**
  *
  * @author Ronak
+ * @editor Hannah
  */
 public class StudentList {
     public static void main(String[] args)
